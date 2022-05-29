@@ -1,0 +1,11 @@
+{
+  "name": "node-feda",
+  "version": "1.0.0",
+  "description": "Unofficial fedapay node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheWisePigeon",
+  "license": "ISC"
+}
